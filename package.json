@@ -1,0 +1,30 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "All about Music",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-http-to-https": "^1.1.4",
+    "node-fetch": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kenny1995/Music.git"
+  },
+  "keywords": [
+    "Progressive Web App",
+    "pwa",
+    "installable web app"
+  ],
+  "author": "Kenneth Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenny1995/Music/issues"
+  },
+  "homepage": "https://github.com/Kenny1995/Music#readme"
+}
