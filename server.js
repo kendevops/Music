@@ -9,7 +9,7 @@ app.use(redirectToHTTPS([/localhost:(\d{4})/], [], 301));
 
 app.use(express.static('public'));
 
-app.listen("8000", () => {
+app.listen("4000", () => {
   // eslint-disable-next-line no-console
-  console.log("Music Website Server Started on port 8000...");
+  console.log("Music Website Server Started on port 4000...");
 });
