@@ -1,5 +1,5 @@
 # Music
-A music website with images built using grid, flexbox and also has Progressive Web App implimentation.
+This is a music website with images built using grid, flexbox and also has an implimentation of Progressive Web App implimentation.
 
 # Link To The APP
 
